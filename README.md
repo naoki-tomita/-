@@ -1,0 +1,7 @@
+# やることアプリ
+
+やることアプリです。だいたい日本語で実装されています。
+
+## 実演
+
+[こちら](https://naoki-tomita.github.io/todo-app-japanese/index.html)
